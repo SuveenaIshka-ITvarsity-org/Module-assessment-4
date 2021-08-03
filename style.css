@@ -1,0 +1,41 @@
+table{
+    font-family: cursive;
+    border-collapse: collapse;
+    background-color:#e8dfe7;
+    border-width:thick;
+    border-style:groove;
+    border-top-color:black;
+    border-color:black;
+}
+
+th{
+    font-weight:bolder;
+} 
+
+th {
+    font-weight     : 800;
+    background-color:#dba4cb;
+    color: #ffffff;
+}
+
+td{
+    font-weight: 600;
+    text-align:left;
+
+}
+
+td{
+    font-weight:bolder;
+}
+
+
+
+h3{
+    font-family: cursive;
+    border-collapse: none;
+    text-align: center;
+    font-size: 25px;
+    color: darkmagenta;
+    text-decoration: underline;
+    
+}
